@@ -1,0 +1,28 @@
+What is the project focus/overall goal?
+  - The goal of this project is to figure out what ordinance is needed to define what threshold for bad landlord list e.g. X amount of violations in the calendar year. 
+  - Our overall goal is to create a watchlist for the worst landlords in Boston. To do this we need to define a threshold for what constitutes a bad landlord. 
+
+Why is this project important?
+  - The significance of this project lies in our aim to enhance the accessibility and openness of the Boston planning, zoning, and development process, enabling the constituents and residents of the city to have a clearer understanding of the changing face of their city.
+
+What type of data will you collect or be analyzing?
+  - We will be looking at data on common types of violations and the following datasets.
+    - Building and Property Violations Dataset
+    - Violation Codes Dictionary
+    - Worst Landlord Formula
+    - Property assessment fy22
+    - Shapefile by district  
+    - Income-Restricted Housing Inventory - Datasets - Analyze Boston 
+    - Property Listings | Boston Planning & Development Agency 
+    - AMI Database
+    - Boston Affordable Housing Stock Data
+    - 311 complaints
+
+What are potential limitations of the project?
+  - How we define what constitutes a "bad landlord" may be subjective and could vary based on the criteria used. Our team needs to develop a threshold for the “bad landlord list” that is as fair and consistent as possible. 
+  - Visualizing the results of the analysis can help to provide insights, but it may not be able to capture all aspects of the data. The team will need to carefully consider the visualizations used to ensure that they accurately represent the results of the analysis.
+  - Collected data may be biased towards certain groups of landlords. Bias in the source data can lead to inaccurately trained machine learning model and results. 
+
+What are your next steps? Divide tasks amongst the team
+  - We will have meetings to discuss a project timeline along with meeting with the project manager to determine specifications.
+  - Read over the data and prepare questions for the first kickoff meeting.
