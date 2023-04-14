@@ -40,4 +40,5 @@ Here you will find 3 pages:
 3. Landlors - list of identified scofflaw landlors and a search option to view violations for a given landlord
 
 ### Demo
+![demo gif](./visualizations/dashboard_demo.gif)
 
