@@ -10,16 +10,16 @@ For our extension project we are expanding our work with the hazardous criteria 
 
 ## Team Contributions
 
-Jack Ruan (Team Lead)
-    - 
+### Jack Ruan (Team Lead)
+- 
 
-Isa Taboada
-    - Ranking building and cities by the total number of harzardous criteria violations (vioaltions_analysis.ipynb).
-    - 
+### Isa Taboada
+- Ranking building and cities by the total number of harzardous criteria violations (vioaltions_analysis.ipynb).
+- 
 
-Li Xi
-    - Plotting correlations between the total number of affordable units vs total number of violations (vioaltions_analysis.ipynb).
-     - 
+### Li Xi
+- Plotting correlations between the total number of affordable units vs total number of violations (vioaltions_analysis.ipynb).
+- 
 
 ## How to Navigate
 
