@@ -25,4 +25,14 @@ This project utilized the following datasets:
 
 
 
-## Project Webpage
+## Project Webpage/Dashboard
+
+We created a dashboard for our project that demonstrates our findings and various visualizations. Click [here](https://francescociraolo.github.io/bad-landlords-team4/plots.html) to access the dashboard.
+
+Here you will find 3 pages: 
+1. Maps - select a dataset and view the data in a map format
+2. Plots - various visualizations we have created throughout the project 
+3. Landlors - list of identified scofflaw landlors and a search option to view violations for a given landlord
+
+### Demo
+
