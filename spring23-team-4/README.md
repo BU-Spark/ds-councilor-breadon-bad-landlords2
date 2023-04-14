@@ -14,11 +14,10 @@ In collaboration with councilor Breadon, we are performing data analysis on Bost
 
 In this repository you can find: 
 
-This project utilized the following datasets: 
 
 |  |      **File/Directory**                   |    **Description**                                                              |
 |-:|:---------------------------------:|---------------------------------------------------------------------------|
-| 1| [code](./code)  | Data analysis code and helper functions |
+| 1| [code](./code)  | Data analysis code (notebook format) and helper functions |
 | 2| [data](./data)  | Datasets we used for this project and any transformed versions of the data |
 | 3| [deliverables](./deliverables)    | Course-related deliverables detailing our progress |
 | 4| [visualizations](./visualizations)  | Various visualizations we have generated during the data analysis process |
