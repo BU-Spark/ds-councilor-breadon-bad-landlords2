@@ -29,13 +29,13 @@ For our extension project we are expanding our work with the hazardous criteria 
 
 We have divided our repo into two folders: data & analysis. The data folder include all the csv files used in the different analysis done in the analysis folder. 
 
-### violations.csv, affordable_rental_units.csv, buildings_df.csv, cities_df.csv & violations_analysis.ipynb
+### violations_analysis.ipynb
 This includes our preliminary analysis done on the Building and Property Violations Dataset. We first plotted the number of violations per building per violation type. We then created graphs to rank buildings by the number of violations based on all the hazardous criteria together. In addition, we created graphs to rank cities by the number of violations based on all the hazardous criteria together. Both buildings_df and cities_df are exported as buildings_df.csv and cities_df.csv in the data folder. Lastly, we did some analysis to create a graph to show correlations between the total number of affordable units vs total number of violations. 
 
-### violations.csv, maps.ipynb & violations.html
+### maps.ipynb & violations.html
 This includes a map to visualize all violation types in the spatial context. We plotted different types violations with different color on a map of Boston. This gives a sense of where all the types of violations occur in Boston. You can see the map by opening violations.html in your browser.
 
-### income-restricted-inventory-2021.csv, cities_df.csv & income_restricted_analysis.ipynb
+### income_restricted_analysis.ipynb
 The csv file income-restricted-inventory-2021 contains information about the location of income restricted units throughout the boston area. We created the cities_df.csv contains the results of our violation frequency analysis. Both of these csvs are used in the income_restricted_analysis notebook to see the correlation between the presence of affordable housing and the frequency of violations commited in those areas.
 
 
