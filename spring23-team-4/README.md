@@ -39,5 +39,5 @@ Here you will find 3 pages:
 3. Extension - view extension project analysis and results
 
 ### Demo
-![demo gif](./visualizations/dashboard_demo.gif)
+![demo gif](./visualizations/demo.gif)
 
