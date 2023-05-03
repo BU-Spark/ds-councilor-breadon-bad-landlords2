@@ -2,7 +2,9 @@
 
 The purpose of this project is to increase the accessibility and transparency of the Boston planning, zoning, and development process so her constituents and residents across Boston can better understand the evolving landscape of their city. The end goal is to build a trackable system for Boston property violations to then determine which landlords are bad landlords.
 
-We analyzed Boston property data to create visualizations of property and landlord violations. Our main focus was to analyze the number of violations per neighborhood in addition to finding out which landlords commit the most number of violations. For our extension project, we aimed to analyze which social features in particular neighborhoods impacted the severity and number of violations committed by landlords to take advantage of marginalized communities.
+We analyzed Boston property data to create visualizations of property and landlord violations. Our main focus was to analyze the number of violations per neighborhood in addition to finding out which landlords commit the most number of violations.
+
+Our extension proposal was determining the influence of various social factors on the number/types of violations that landlords commit. Some factors that we considered were: the number of children/elderly people, the number of individuals who don’t speak English as their first language, the number of minorities who live in a particular neighborhood, etc.. Since housing is a part of society, it is possible that landlords' violations might be influenced by the social environment of the neighborhood. In the end, we connected our extension findings back to the base analysis as detailed in the final report.
 
 
 Our repository consists of the following directories:<br>
